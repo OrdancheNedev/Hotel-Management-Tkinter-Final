@@ -16,7 +16,9 @@ A proof-of-concept application built with Tkinter and the forest-ttk theme, show
 ## Style
 
 Tkinter theme that I used: https://github.com/rdbende/Forest-ttk-theme
-The forest-dark, forest-light folder, forest-dark.tcl forest-light.tcl are all used from that repository with permission
+
+The forest-dark, forest-light folder, forest-dark.tcl forest-light.tcl are all used from this repository with permission
+
  
 
   
