@@ -1,7 +1,6 @@
 # Hotel Management System
 
-This system was build using the forest-ttk theme and tkinter as way to show how modern styling and legacy software can interact in more conservative businesses 
-
+A proof-of-concept application built with Tkinter and the forest-ttk theme, showcasing how traditional desktop software can be modernized to meet contemporary UI standards in conservative business sectors.
 
 ## Light Mode
 
