@@ -1,3 +1,8 @@
+# Hotel Management System
+
+This system was build using the forest-ttk theme and tkinter as way to show how modern styling and legacy software can interact in more conservative businesses 
+
+
 ## Light Mode
 
 ![Alt text](https://raw.githubusercontent.com/OrdancheNedev/Hotel-Management-Tkinter-Final/master/light_mode.png)
